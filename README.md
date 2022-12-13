@@ -223,7 +223,7 @@ function's expected behavior.
   * Converts each nested `Array` into an employee record using
     `createEmployeeRecord` and accumulates it to a new `Array`
 
-### `createTimeInEvent`
+### `functionfu`
 
 * **Argument(s)**
   * An employee record `Object`
